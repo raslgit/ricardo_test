@@ -6,3 +6,7 @@ bllaallala
 
 
 lalala
+
+
+
+git com jenkins
